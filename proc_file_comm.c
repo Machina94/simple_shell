@@ -1,8 +1,3 @@
-/*
- * File: proc_file_comm.c
- * Authors: Obed & Tina
- */
-
 #include "shell.h"
 
 int cant_open(char *file_path);

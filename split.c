@@ -1,9 +1,3 @@
-/*
- * File: split.c
- * Authors: Obed
- *          Tina
- */
-
 #include "shell.h"
 
 int token_len(char *str, char *delim);

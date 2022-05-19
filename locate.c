@@ -1,8 +1,3 @@
-/*
- * File: locate.c
- * Authors: Obed & Tina
- */
-
 #include "shell.h"
 
 char *fill_path_dir(char *path);

@@ -1,8 +1,3 @@
-/*
- * File: input_helpers.c
- * Authors: Korede & Francis
- */
-
 #include "shell.h"
 
 char *get_args(char *line, int *exe_ret);

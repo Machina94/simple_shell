@@ -1,9 +1,3 @@
-/*
- * File: helpers_2.c
- * Author: Oyeyemi Korede
- *         Emediong Francis
- */
-
 #include "shell.h"
 
 void handle_line(char **line, ssize_t read);

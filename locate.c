@@ -1,9 +1,3 @@
-/*  
- * File: locate.c
- * Authors: Oyeyemi korede
- *          Emediong francis
- */
-
 #include "shell.h"
 
 char *fill_path_dir(char *path);

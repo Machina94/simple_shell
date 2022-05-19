@@ -1,9 +1,3 @@
-/*  
- * File: split.c
- * Authors: Ukonu, Divine Chisom
- *          Nobert Patrick
- */
-
 #include "shell.h"
 
 int token_len(char *str, char *delim);

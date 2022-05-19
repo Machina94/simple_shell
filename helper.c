@@ -1,9 +1,3 @@
-/*
- * File: helper.c
- * Authors: Oyeyemi Korede
- *          Emediong Francis
- */
-
 #include "shell.h"
 
 void free_args(char **args, char **front);

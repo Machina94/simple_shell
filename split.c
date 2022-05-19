@@ -1,7 +1,7 @@
-/*  
+/*
  * File: split.c
- * Authors: Ukonu, Divine Chisom
- *          Nobert Patrick
+ * Authors: Obed
+ *          Tina
  */
 
 #include "shell.h"

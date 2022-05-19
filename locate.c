@@ -1,7 +1,6 @@
-/*  
+/*
  * File: locate.c
- * Authors: Oyeyemi korede
- *          Emediong francis
+ * Authors: Obed & Tina
  */
 
 #include "shell.h"

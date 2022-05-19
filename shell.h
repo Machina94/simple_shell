@@ -1,10 +1,10 @@
 #ifndef _SHELL_H_
 #define _SHELL_H_
 
-/*  
+/*
  * File: shell.h
- * Auth: Nobert
- *       Divine
+ * Auth: Obed
+ *       Tina
  */
 
 #include <fcntl.h>

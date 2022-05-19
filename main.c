@@ -1,7 +1,6 @@
-/* 
+/*
  * File: main.c
- * Authors: Oyeyemi Korede
- *          Emediong Francis
+ * Authors: Obed & Tina
  */
 
 #include "shell.h"

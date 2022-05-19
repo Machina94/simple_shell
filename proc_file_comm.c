@@ -1,7 +1,6 @@
-/*  
+/*
  * File: proc_file_comm.c
- * Authors: Oyeyemi korede
- *          Emediong Francis
+ * Authors: Obed & Tina
  */
 
 #include "shell.h"

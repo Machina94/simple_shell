@@ -1,6 +1,6 @@
-/*  
+/*
  * File: linkedlist.c
- * Authors: Korede & Francis
+ * Authors: Obed & Tina
  */
 
 #include "shell.h"
